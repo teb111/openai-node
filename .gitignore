@@ -12,3 +12,5 @@ tmp
 ecosystem-tests/deno/package.json
 ecosystem-tests/*/openai.tgz
 
+temp_auto_push.bat
+temp_interactive_push.bat
